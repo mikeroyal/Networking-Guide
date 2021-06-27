@@ -145,7 +145,7 @@ The communication takes place between peers network.
 ## Interfaces
 Interfaces are networking communication points for your computer. Each interface is associated with a physical or virtual networking device. Typically, your server will have one configurable network interface for each Ethernet or wireless internet card you have. In addition, it will define a virtual network interface called the "loopback" or localhost interface. This is used as an interface to connect applications and processes on a single computer to other applications and processes. You can see this referenced as the "lo" interface in many tools.
 
-# Protocols
+# Network Protocols
 [Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 Networking works by piggybacks on a number of different protocols on top of each other. In this way, one piece of data can be transmitted using multiple protocols encapsulated within one another.
