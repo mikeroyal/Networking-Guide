@@ -240,7 +240,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [ZFS](https://docs.oracle.com/cd/E19253-01/819-5461/zfsover-2/) is an enterprise-ready open source file system and volume manager with unprecedented flexibility and an uncompromising commitment to data integrity.
 
-[OpenZFS](https://openzfs.org/wiki/Main_Page )is an open-source storage platform. It includes the functionality of both traditional file systems and volume manager. It has many advanced features including:
+[OpenZFS](https://openzfs.org/wiki/Main_Page ) is an open-source storage platform. It includes the functionality of both traditional file systems and volume manager. It has many advanced features including:
 
   - Protection against data corruption.
   - Integrity checking for both data and metadata.
